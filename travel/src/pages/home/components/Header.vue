@@ -35,8 +35,9 @@ export default {
     .header-input
       flex: 1
       height: .64rem
-      line-height: .64rem;
-      margin: .12rem 0 .12rem .2rem
+      line-height: .64rem
+      margin-top: .12rem
+      margin-left .2rem
       padding-left: .2rem
       background-color: #fff
       color: #ccc
@@ -45,6 +46,7 @@ export default {
       width: 1.24rem
       float: right
       text-align: center
+      color #fff
       .arrow-icon
         margin-left: -.04rem
         font-size: .24rem
