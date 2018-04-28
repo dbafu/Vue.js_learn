@@ -59,7 +59,7 @@ export default {
     }
   },
   mounted () {
-    console.log('hehe : ', this.$refs.search)
+    // console.log('hehe : ', this.$refs.search)
     this.scroll = new Bscroll(this.$refs.search)
   }
 }
